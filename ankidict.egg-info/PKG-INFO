@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ankidict
+Version: 0.1.0
+Summary: Anki Dictionary Builder
+Requires-Python: >=3.12
+Requires-Dist: beautifulsoup4
+Requires-Dist: lxml
+Requires-Dist: mdict-utils

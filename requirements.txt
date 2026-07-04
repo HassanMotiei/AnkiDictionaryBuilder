@@ -1,0 +1,24 @@
+# Editable Git install with no remote (ankidict==0.1.0)
+-e c:\users\hassan motiei\onedrive\desktop\ankidictionarybuilder
+beautifulsoup4==4.15.0
+black==26.5.1
+certifi==2026.6.17
+charset-normalizer==3.4.7
+click==8.1.8
+colorama==0.4.6
+gTTS==2.5.4
+idna==3.18
+lxml==6.1.1
+mdict-utils==1.3.14
+mypy_extensions==1.1.0
+packaging==26.2
+pathspec==1.1.1
+platformdirs==4.10.0
+pytokens==0.4.1
+requests==2.34.2
+ruff==0.15.20
+soupsieve==2.8.4
+tqdm==4.68.3
+typing_extensions==4.16.0
+urllib3==2.7.0
+xxhash==3.8.0

@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+ankidict/__init__.py
+ankidict/anki.py
+ankidict/audio.py
+ankidict/database.py
+ankidict/importer.py
+ankidict/models.py
+ankidict/parser.py
+ankidict/utils.py
+ankidict.egg-info/PKG-INFO
+ankidict.egg-info/SOURCES.txt
+ankidict.egg-info/dependency_links.txt
+ankidict.egg-info/requires.txt
+ankidict.egg-info/top_level.txt
+tests/test_parser.py
