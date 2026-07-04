@@ -1,5 +1,4 @@
-# Editable Git install with no remote (ankidict==0.1.0)
--e c:\users\hassan motiei\onedrive\desktop\ankidictionarybuilder
+-e git+https://github.com/HassanMotiei/AnkiDictionaryBuilder.git@fbf2ed966bad75414bf1fc7df253c5e4568bc931#egg=ankidict
 beautifulsoup4==4.15.0
 black==26.5.1
 certifi==2026.6.17

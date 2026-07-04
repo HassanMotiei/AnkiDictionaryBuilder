@@ -9,6 +9,15 @@ class MDXImporter:
 
     def __init__(self, filename: str):
         self.mdx = MDX(filename)
+        self._length = None
+        
+        def __len__(self):
+
+            if self._length is None:
+
+                self._length = sum(1 for _ in self.mdx.items())
+
+            return self._length
 
     def __iter__(self):
         for word, html in self.mdx.items():
